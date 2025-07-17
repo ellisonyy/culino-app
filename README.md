@@ -1,8 +1,6 @@
 # Culino App
 
-A React Native mobile application built with Expo, featuring Firebase authentication and a Node.js backend.
-
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 culino-app-1/
@@ -20,7 +18,7 @@ culino-app-1/
 └── README.md
 ```
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Node.js (v18+)
@@ -42,7 +40,7 @@ npm install
 node index.js
 ```
 
-## 📱 Development
+## Development
 
 ### Running the App
 1Start the frontend: `cd frontend && npx expo start --lan`
@@ -54,7 +52,7 @@ node index.js
 - Use `(auth)/` for authentication screens
 - Use `(tabs)/` for main app screens
 
-## 🔧 Technologies
+## Technologies
 
 ### Frontend
 - **Expo** - Development platform
@@ -67,10 +65,3 @@ node index.js
 - **Node.js** - Server runtime
 - **Express** - Web framework
 - **CORS** - Cross-origin resource sharing
-
-## 📝 TODO
-- [ ] Add Firebase project credentials
-- [ ] Implement authentication flow
-- [ ] Add more screens and features
-- [ ] Set up protected routes
--Firestore database operations
