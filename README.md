@@ -47,10 +47,6 @@ node index.js
 2. Scan QR code with Expo Go app
 3. backend (optional): `cd backend && node index.js`
 
-### Adding New Screens
-- Create files in `frontend/app/` following Expo Router conventions
-- Use `(auth)/` for authentication screens
-- Use `(tabs)/` for main app screens
 
 ## Technologies
 
