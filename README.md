@@ -43,9 +43,9 @@ node index.js
 ## Development
 
 ### Running the App
-1Start the frontend: `cd frontend && npx expo start --lan`
+1. Start the frontend: `cd frontend && npx expo start --lan`
 2. Scan QR code with Expo Go app
-3 backend (optional): `cd backend && node index.js`
+3. backend (optional): `cd backend && node index.js`
 
 ### Adding New Screens
 - Create files in `frontend/app/` following Expo Router conventions
